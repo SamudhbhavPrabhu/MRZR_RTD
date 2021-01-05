@@ -6,7 +6,7 @@ Please refer the paper, ["Bridging the Gap Between Safety and Real-Time Performa
 
 Check out the [tutorial](https://github.com/skousik/RTD_tutorial) to get a gentler introduction to the method. 
 
-"Insert image here of experiments"
+(To me <<"Insert images here of experiments">>)
 
 #### Getting Started
 
