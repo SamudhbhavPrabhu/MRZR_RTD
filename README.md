@@ -1,6 +1,6 @@
 # MRZR_RTD
 
-Reachability-based Trajectory Design for autonomous navigation of MRZR in an unstructured environment
+Reachability-based Trajectory Design for autonomous navigation of MRZR in an unstructured environment (off-road terrain in UE4 simulator).
 
 This repository is based on the master repository: https://github.com/skvaskov/RTD , where the RTD has been applied on segway and rover agents.
 
