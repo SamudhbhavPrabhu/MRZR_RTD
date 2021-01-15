@@ -14,6 +14,8 @@ Arena1:
 
 ![alt text](https://github.com/SamudhbhavPrabhu/MRZR_RTD/blob/main/RTD/figures/Arena1.png)
 
+Arena2:
+
 ![alt text](https://github.com/SamudhbhavPrabhu/MRZR_RTD/blob/main/RTD/figures/Arena2.PNG)
 
 #### Getting Started
