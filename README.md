@@ -8,7 +8,13 @@ Please refer the paper, ["Bridging the Gap Between Safety and Real-Time Performa
 
 Check out the [tutorial](https://github.com/skousik/RTD_tutorial) to get a gentler introduction to the method. 
 
-(To me <<"Insert images here of experiments">>)
+# Navigation Arena setup in UE4 for real-time testing
+
+Arena1:
+
+![alt text] (https://github.com/SamudhbhavPrabhu/MRZR_RTD/blob/main/RTD/figures/Arena1.png)
+
+![alt text] (https://github.com/SamudhbhavPrabhu/MRZR_RTD/blob/main/RTD/figures/Arena2.PNG)
 
 #### Getting Started
 
