@@ -1,4 +1,6 @@
-# RTD for MRZR
+# MRZR_RTD
+
+Reachability-based Trajectory Design for autonomous navigation of MRZR in an unstructured environment (off-road terrain in UE4 simulator).
 
 This repository is based on the master repository: https://github.com/skvaskov/RTD , where the RTD has been applied on segway and rover agents.
 
@@ -6,7 +8,15 @@ Please refer the paper, ["Bridging the Gap Between Safety and Real-Time Performa
 
 Check out the [tutorial](https://github.com/skousik/RTD_tutorial) to get a gentler introduction to the method. 
 
-(To me <<"Insert images here of experiments">>)
+# Navigation Arena setup in UE4 for real-time testing
+
+Arena1:
+
+<img src="https://github.com/SamudhbhavPrabhu/MRZR_RTD/blob/main/RTD/figures/Arena1.png" width="240" height="200">
+
+Arena2:
+
+<img src="https://github.com/SamudhbhavPrabhu/MRZR_RTD/blob/main/RTD/figures/Arena2.PNG" width="240" height="200">
 
 #### Getting Started
 
@@ -26,3 +36,4 @@ Please cite the [paper](https://arxiv.org/abs/1809.06746). Also, check out other
 #### RTD Authors
 
 Sean Vaskov, Shreyas Kousik, Hannah Larson, and Ram Vasudevan
+
