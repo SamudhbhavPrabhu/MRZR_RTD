@@ -4,9 +4,4 @@ Arena1:
 
 Testing videos:
 
-Test1:
-
-
-Test2:
-
-
+Test videos: Please check MRZR_RTD youtube channel: https://studio.youtube.com/channel/UCJ4vtLpi0Xrk__dSEonEn2A
