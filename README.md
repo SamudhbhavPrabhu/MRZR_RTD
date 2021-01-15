@@ -12,11 +12,11 @@ Check out the [tutorial](https://github.com/skousik/RTD_tutorial) to get a gentl
 
 Arena1:
 
-![alt text](https://github.com/SamudhbhavPrabhu/MRZR_RTD/blob/main/RTD/figures/Arena1.png)
+!<img src="https://github.com/SamudhbhavPrabhu/MRZR_RTD/blob/main/RTD/figures/Arena1.png" width="200" height="200">
 
 Arena2:
 
-![alt text](https://github.com/SamudhbhavPrabhu/MRZR_RTD/blob/main/RTD/figures/Arena2.PNG)
+!<img src="https://github.com/SamudhbhavPrabhu/MRZR_RTD/blob/main/RTD/figures/Arena2.PNG" width="200" height="200">
 
 #### Getting Started
 
